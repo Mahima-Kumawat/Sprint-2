@@ -1,2 +1,1 @@
-# Sprint-2
-Pizza Sales Analysis
+# Pizza Sales Analysis
